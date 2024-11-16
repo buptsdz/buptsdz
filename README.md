@@ -19,17 +19,36 @@
   <div>&nbsp;</div>
   
 <!-- 个人信息统计 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=buptsdz&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buptsdz&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=buptsdz&show_icons=true&include_all_commits=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buptsdz&layout=compact&theme=buefy&hide_border=true" />
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <!-- 活跃折线图 -->
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=react&days=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
+<!-- 活跃贪吃蛇 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
   </picture>
+  
+  <!-- profile logo 个人资料徽标 -->
+  <div>
+    <a href="http://sue.sparkflare.cn"><img src="https://img.shields.io/badge/Website-个人网站-rgb(170, 220, 245)" /></a>&emsp;
+    <a href="https://twitter.com/Phil_Wang66"><img src="https://img.shields.io/badge/Xiaoghongshu-小红书-rgb(255, 36, 66)" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/wu-jin-zhi-zhan-20"><img src="https://img.shields.io/badge/Yuque-语雀-rgb(49, 204, 121)" /></a>&emsp;
+    <a href="https://space.bilibili.com/512181208?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="http://sue.sparkflare.cn"><img src="https://img.shields.io/badge/Poems-我写的诗-rgb(225, 224, 199)" /></a>&emsp;
+    <a href="https://space.bilibili.com/512181208?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Sparkflare-星火-rgb(227, 52, 43)" /></a>&emsp;
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=buptsdz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
+    <!-- wakatime -->
+    <!-- <a href="https://wakatime.com/@buptsdz"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg"/></a> -->
+
+  </div>
 
 </div>
+
+![Metrics](/github-metrics.svg)
 
 <table>
  <tr><td>
