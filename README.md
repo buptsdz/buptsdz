@@ -119,9 +119,6 @@
     <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif">
 </div>
 
-<table>
-<tr><td>
-
 ### 🧰 Tools:
 <!--  skill badge 技能徽章 -->
 <div align="center">
@@ -165,8 +162,6 @@
   <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
-</td></tr>
-</table>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/icon.png" />
