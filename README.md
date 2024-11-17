@@ -59,27 +59,33 @@
 <div>&nbsp;</div>
 
 # Hello 👋, here is Sue ~
+
 <table>
 <tr><td>
 
-  ### 🤺 About Me
-  <!-- 个人介绍 -->
-  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png"/>
+### 🤺 About Me
+<!-- 个人介绍 -->
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png" />
 
-  我现在就读**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
+就读于**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
 
-  - 🌱 以后的研究方向是频率方向的**机器学习**和集成学习，例如xgboost和bagging。
+- 🌱 以后的研究方向是频率方向的**机器学习**和集成学习，例如xgboost和bagging。
 
-  - 📚 目前正在学习线性代数和机器学习的基础知识，以及应用常见的机器学习模型解决问题。
+- 📚 目前正在学习线性代数和机器学习的基础知识，以及应用常见的机器学习模型解决问题。
 
-  - 🛠️ 热爱计算机科学和IT互联网🖥️事业，平时自己也做一些**全栈开发**,希望能成为一名优秀的开发者。
+- 🛠️ 热爱计算机科学和IT互联网🖥️事业，平时自己也做一些**全栈开发**,希望能成为一名优秀的开发者。
 
-  - ✨ 我在我的语雀文档上分享我的学习和爱好 🔜[语雀·史迪仔](https://www.yuque.com/u39067637)
+- ✨ 我在我的语雀文档上分享我的学习和爱好 🔜[语雀·史迪仔](https://www.yuque.com/u39067637)
 
-  - 🤔 我是一个终身学习者，对编程、人工智能、数据科学和历史、经济学充满热情。
+- 🤔 我是一个终身学习者，对编程、人工智能、数据科学和历史、经济学充满热情。
 
-  - 👥 2024年初和朋友创业，是关于数据方向的，现在还在做，有兴趣的朋友可以来看看 ▶️[Sparkflare](http://www.sparkflare.cn)
+- 👥 2024年初和朋友创业，是关于数据方向的，现在还在做，有兴趣的朋友可以来看看 [▶️Sparkflare](http://www.sparkflare.cn)
+
+<p>&emsp;&emsp;Go be a great engineer. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p
+
 </td></tr>
+
+
 
 <tr><td>
 
@@ -87,19 +93,19 @@
 <!-- 就读经历 -->
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/bupt.png"/>
 
-- [北京邮电大学](https://www.bupt.edu.cn/) &emsp; 📌 2021-09-01 —— Now
+  - [北京邮电大学](https://www.bupt.edu.cn/) &emsp; 📌 2021-09-01 —— Now
 
-  - 学院：信息与通信工程学院
-  - 专业：通信工程
+    - 学院：信息与通信工程学院
+    - 专业：通信工程
   
 <div>&nbsp;</div>
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/fdu.png" />
 
-- [复旦大学](https://www.fdu.edu.cn/) &emsp; 📌 2025-09-01 —— 
+  - [复旦大学](https://www.fdu.edu.cn/) &emsp; 📌 2025-09-01 —— 
 
-  - 学院：智能复杂体系基础理论与关键技术实验室
-  - 研究方向：机器学习，集成学习，大模型
+    - 学院：智能复杂体系基础理论与关键技术实验室
+    - 研究方向：机器学习，集成学习，大模型
 
 <div>&nbsp;</div>
 </td></tr>
@@ -107,7 +113,7 @@
 <tr><td>
 
 ### 🏭 Work Experience
-<img align="right" width="108" src="/assets/images/pjlab.png" />
+<img align="right" width="108" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/pjlab.png" />
 
 - [上海人工智能实验室](https://www.shlab.org.cn/) &emsp; 📌 2024-06-07 —— 2024-11-05
 
@@ -116,19 +122,22 @@
 
 <div>&nbsp;</div>
 
-<img align="right" height="38" width="115" src="/assets/images/sparkflare.png" />
+<img align="right" height="38" width="120" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/sparkflare.png" />
 
 - [Sparkflare](http://www.sparkflare.cn/) &emsp; 📌 2024-01-10 —— 至今
 
   - 工作岗位：移动端前端负责人，后端开发工程师
   - 工作内容：参与软件平台开发，感受创业
 
+<div>&nbsp;</div>
 </td></tr>
 
 </table>
 
+
+
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
-    <!-- github-readme-streak-stats 连续提交代码天数记录 -->
     <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/left.png" />
     <picture>
       <source aligh="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=dark&hide_border=true" />
