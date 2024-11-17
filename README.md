@@ -94,7 +94,6 @@
 
 <div>&nbsp;</div>
 </td></tr>
-<table>
 
 <tr>
   <td>
@@ -102,6 +101,7 @@
   </td>
 </tr>
 
+<table>
  <tr><td>
 🧰 Tools:
 
