@@ -52,24 +52,22 @@
 <div>&nbsp;</div>
 
 ## 🤺 About Me
-
 <table>
+
 <tr><td>
+  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png"/>
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png"/>
+  我现在就读**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
 
-我现在就读**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
+  - 🌱 以后的研究方向是频率方向的**机器学习**和集成学习。
 
-- 🌱 以后的研究方向是频率方向的**机器学习**和集成学习。
+  - 📚 目前正在学习线性代数和矩阵的基础知识以及常见的模型和应用，包括自己做一些简单的**全栈开发**。
 
-- 📚 目前正在学习线性代数和矩阵的基础知识以及常见的模型和应用，包括自己做一些简单的**全栈开发**。
+  - ✨ 我在我的语雀文档上分享我的学习 🔜[语雀·史迪仔](https://www.yuque.com/u39067637)
 
-- ✨ 我在我的语雀文档上分享我的学习 🔜[语雀·史迪仔](https://www.yuque.com/u39067637)
+  - 🤔 我是一个终身学习者，对编程、人工智能、数据科学和历史、经济学充满热情。
 
-- 🤔 我是一个终身学习者，对编程、人工智能、数据科学和历史、经济学充满热情。
-
-- 👥 2024年初和朋友创业，是关于数据方向的，现在还在做，有兴趣的朋友可以来看看 ▶️[Sparkflare](http://www.sparkflare.cn)
-
+  - 👥 2024年初和朋友创业，是关于数据方向的，现在还在做，有兴趣的朋友可以来看看 ▶️[Sparkflare](http://www.sparkflare.cn)
 </td></tr>
 
 <tr><td>
@@ -101,10 +99,10 @@
   </td>
 </tr>
 
-<table>
- <tr><td>
-🧰 Tools:
 
+<tr><td>
+
+#### 🧰 Tools:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black) ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white) ![Edge](https://img.shields.io/badge/-Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white) ![Python](https://img.shields.io/badge/Python-6DB33F?logo=python&logoColor=fff&style=flat) ![Mysql](https://img.shields.io/badge/Mysql-47A248?logo=mysql&logoColor=fff&style=flat) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VSCode&logoColor=fff) ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github) 
 
 <!-- svg -->
@@ -130,11 +128,12 @@
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
 </div>
+
 </td></tr>
 </table>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Wang-Phil/Wang-Phil/assets/images/icon.png" />
+  <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/icon.png" />
 </div>
 
 <!--
