@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="http://sue.sparkflare.cn/views/personal-introduction.html">
+    <a href="http://sue.sparkflare.cn/views/personal-introduction.html" target="_blank">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm Sue, welcome here!&center=true&size=27" />
     </a>
   </div>
@@ -19,12 +19,12 @@
   
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="http://sue.sparkflare.cn"><img src="https://img.shields.io/badge/Website-个人网站-rgb(170, 220, 245)" /></a>&emsp;
-    <a href="https://www.xiaohongshu.com/user/profile/624e74200000000010005b95"><img src="https://img.shields.io/badge/Xiaoghongshu-小红书-rgb(255, 36, 66)" /></a>&emsp;
-    <a href="https://www.yuque.com/u39067637"><img src="https://img.shields.io/badge/Yuque-语雀-rgb(49, 204, 121)" /></a>&emsp;
-    <a href="https://space.bilibili.com/512181208?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="http://sue.sparkflare.cn/mulu/mulu1.html"><img src="https://img.shields.io/badge/Poems-我写的诗-rgb(225, 224, 199)" /></a>&emsp;
-    <a href="http://www.sparkflare.cn"><img src="https://img.shields.io/badge/Sparkflare-星火-rgb(227, 52, 43)" /></a>&emsp;
+    <a href="http://sue.sparkflare.cn" target="_blank"><img src="https://img.shields.io/badge/Website-个人网站-rgb(170, 220, 245)" /></a>&emsp;
+    <a href="https://www.xiaohongshu.com/user/profile/624e74200000000010005b95" target="_blank"><img src="https://img.shields.io/badge/Xiaoghongshu-小红书-rgb(255, 36, 66)" /></a>&emsp;
+    <a href="https://www.yuque.com/u39067637" target="_blank"><img src="https://img.shields.io/badge/Yuque-语雀-rgb(49, 204, 121)" /></a>&emsp;
+    <a href="https://space.bilibili.com/512181208?spm_id_from=333.1007.0.0" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="http://sue.sparkflare.cn/mulu/mulu1.html" target="_blank"><img src="https://img.shields.io/badge/Poems-我写的诗-rgb(225, 224, 199)" /></a>&emsp;
+    <a href="http://www.sparkflare.cn" target="_blank"><img src="https://img.shields.io/badge/Sparkflare-星火-rgb(227, 52, 43)" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=buptsdz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->
@@ -61,10 +61,10 @@
 # Hello 👋, here is Sue ~
 
 <table>
+<!-- 个人介绍 -->
 <tr><td>
 
 ### 🤺 About Me
-<!-- 个人介绍 -->
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png" />
 
 就读于**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
@@ -75,22 +75,20 @@
 
 - 🛠️ 热爱计算机科学和IT互联网🖥️事业，平时自己也做一些**全栈开发**,希望能成为一名优秀的开发者。
 
-- ✨ 我在我的语雀文档上分享我的学习和爱好 🔜[语雀·史迪仔](https://www.yuque.com/u39067637)
+- ✨ 我在我的语雀文档上分享我的学习和爱好 🔜<a href="https://www.yuque.com/u39067637" target="_blank">语雀·史迪仔</a>
 
 - 🤔 我是一个终身学习者，对编程、人工智能、数据科学和历史、经济学充满热情。
 
-- 👥 2024年初和朋友创业，是关于数据方向的，现在还在做，有兴趣的朋友可以来看看 [▶️Sparkflare](http://www.sparkflare.cn)
+- 👥 2024年初和朋友创业，是关于数据方向的，现在还在做，有兴趣的朋友可以来看看 <a href="http://www.sparkflare.cn" target="_blank">▶️Sparkflare</a>
 
 <p>&emsp;&emsp;Go be a great engineer. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p
 
 </td></tr>
 
-
-
+<!-- 就读经历 -->
 <tr><td>
 
 ### 🏢 Study Experience
-<!-- 就读经历 -->
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/bupt.png"/>
 
   - [北京邮电大学](https://www.bupt.edu.cn/) &emsp; 📌 2021-09-01 —— Now
@@ -110,6 +108,7 @@
 <div>&nbsp;</div>
 </td></tr>
 
+<!-- 工作经历 -->
 <tr><td>
 
 ### 🏭 Work Experience
@@ -131,7 +130,6 @@
 
 <div>&nbsp;</div>
 </td></tr>
-
 </table>
 
 
