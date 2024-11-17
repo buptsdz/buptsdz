@@ -56,7 +56,7 @@
 <table>
 <tr><td>
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/images/computer.png"/>
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png"/>
 
 我现在就读**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
 
