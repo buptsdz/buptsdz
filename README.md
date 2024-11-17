@@ -1,4 +1,4 @@
-## Hello 👋, here is Sue ~
+# Hello 👋, here is Sue ~
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
@@ -51,9 +51,57 @@
 </div>
 <div>&nbsp;</div>
 
-![Metrics](/github-metrics.svg)
+## 🤺 About Me
 
 <table>
+<tr><td>
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/images/computer.png"/>
+
+我现在就读**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
+
+- 🌱 以后的研究方向是频率方向的**机器学习**和集成学习。
+
+- 📚 目前正在学习线性代数和矩阵的基础知识以及常见的模型和应用，包括自己做一些简单的**全栈开发**。
+
+- ✨ 我在我的语雀文档上分享我的学习 🔜[语雀·史迪仔](https://www.yuque.com/u39067637)
+
+- 🤔 我是一个终身学习者，对编程、人工智能、数据科学和历史、经济学充满热情。
+
+- 👥 2024年初和朋友创业，是关于数据方向的，现在还在做，有兴趣的朋友可以来看看 ▶️[Sparkflare](http://www.sparkflare.cn)
+
+</td></tr>
+
+<tr><td>
+
+### 🏢 Study Experience
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/bupt.png"/>
+
+- [北京邮电大学](https://www.bupt.edu.cn/) &emsp; 📌 2021-09-01 —— Now
+
+  - 学院：信息与通信工程学院
+  - 专业：通信工程
+  
+<div>&nbsp;</div>
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/fdu.png" />
+
+- [复旦大学](https://www.fdu.edu.cn/) &emsp; 📌 2025-09-01 —— 
+
+  - 学院：智能复杂体系基础理论与关键技术实验室
+  - 研究方向：机器学习，集成学习，大模型
+
+<div>&nbsp;</div>
+</td></tr>
+<table>
+
+<tr>
+  <td>
+    <img width="90%" src="/github-metrics.svg">
+  </td>
+</tr>
+
  <tr><td>
 🧰 Tools:
 
