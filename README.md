@@ -121,12 +121,30 @@
 
 <div>&nbsp;</div>
 
-<img align="right" height="38" width="120" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/sparkflare.png" />
+<img align="right" height="40" width="125" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/sparkflare.png" />
 
 - [Sparkflare](http://www.sparkflare.cn/) &emsp; 📌 2024-01-10 —— 至今
 
-  - 工作岗位：移动端前端负责人，后端开发工程师
+  - 工作岗位：前端负责人，后端开发工程师
   - 工作内容：参与软件平台开发，感受创业
+
+<div>&nbsp;</div>
+
+<img align="right" width="75" src="/assets/images/rusheng.png"/>
+
+- [众艺鑫团队](ttp://www.unionswap.cn/) &emsp; 📌 2024-01-16 —— 2024.03.15
+
+  - 工作岗位：前端开发工程师
+  - 工作内容：数字化知识交互学习软件开发，uniapp+vue
+
+<div>&nbsp;</div>
+
+<img align="right" width="75" src="/assets/images/unionswap.png"/>
+
+- [Unionswap](https://mp.weixin.qq.com/s/isj3AT4irFgKDtVh550P4Q) &emsp; 📌 2023-10-15 —— 2024.4.18
+
+  - 工作岗位：前端开发实习生
+  - 工作内容：海外二手交易平台开发，uniapp+vue
 
 <div>&nbsp;</div>
 </td></tr>
