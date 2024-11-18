@@ -132,7 +132,7 @@
 
 <img align="right" width="75" src="/assets/images/rusheng.png"/>
 
-- [众艺鑫团队](ttp://www.unionswap.cn/) &emsp; 📌 2024-01-16 —— 2024.03.15
+- [众艺鑫团队](https://mp.weixin.qq.com/s/isj3AT4irFgKDtVh550P4Q) &emsp; 📌 2024-01-16 —— 2024.03.15
 
   - 工作岗位：前端开发工程师
   - 工作内容：数字化知识交互学习软件开发，uniapp+vue
@@ -141,7 +141,7 @@
 
 <img align="right" width="75" src="/assets/images/unionswap.png"/>
 
-- [Unionswap](https://mp.weixin.qq.com/s/isj3AT4irFgKDtVh550P4Q) &emsp; 📌 2023-10-15 —— 2024.4.18
+- [Unionswap](http://www.unionswap.cn/) &emsp; 📌 2023-10-15 —— 2024.4.18
 
   - 工作岗位：前端开发实习生
   - 工作内容：海外二手交易平台开发，uniapp+vue
