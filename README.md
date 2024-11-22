@@ -112,6 +112,15 @@
 <tr><td>
 
 ### 🏭 Work Experience
+<img align="right" width="75" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/dianxin.png" />
+
+- [中国电信人工智能研究院](http://www.chinatelecom.com.cn/) &emsp; 📌 2024-11-25 —— 至今
+
+  - 工作岗位：智能感知与识别实习生
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+
 <img align="right" width="108" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/pjlab.png" />
 
 - [上海人工智能实验室](https://www.shlab.org.cn/) &emsp; 📌 2024-06-07 —— 2024-11-05
