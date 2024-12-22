@@ -222,7 +222,7 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAABwgEBQb/xAAqEAABAwIGAQMEAwAAAAAAAAABAgMRBAUABhITITFRBxQyIkFxkaGx0f/EABcBAQEBAQAAAAAAAAAAAAAAAAMBAAL/xAAfEQABBAICAwAAAAAAAAAAAAABAAIDERMhBAUUIjH/2gAMAwEAAhEDEQA/ACYGSByMYa9eqGW7Tdn7e+8844yYdU01rQFDtE+cEm8a6fKVRc0suuvopC+G6ZsrWTokBAwnVmyje700X6enOnV9RdOlR5gkA/KD3HkecFHMJNp8JugmUyjnC1Zr9yLSt1Zpo3Apoo76P9/rGo2cAP0Vypf6L1GUhl+nZaYYDlUrRutvMrIhA65JA5niJ56LNm3jGfKAVMRVJccwos9nL1a8hFEy2EKLiQBHUQe/xgRuZxytUX3atLxtlu3U7jjrRXPI5QCSYnscHmREHAbrlOSNbri/pHyVP3xFR8jhIuvbV2o7lOid6prHLhbLAoKsyk1FctndcqQ1KXEE8AeBwOP5xd2vN/uKBlx2mLr5nd24QEq1HiFqnqP3hM3H321uJbfdQk6DCVkfbEhyuqUGEPOAeAtX+448TX1JmLtlf//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIEBQMI/8QAIxAAAgIBAwMFAAAAAAAAAAAAAAECAxEEEzEFIZEUI0FR8P/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwDzuAaa6ZL0yt2NU8pd1FY+PPItMwFzX6R6VQzXdBtte4kuMfvBT7kQnu2SSTnNpcJvggIkY6WW2W43LJzx9vJAAWn/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQAGBwP/xAAnEAABAwMDAwUBAQAAAAAAAAABAgMRAAQFEjFhISNBEyJRkbFScf/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBAX/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADIRET/9oADAMBAAIRAxEAPwDHG7QA95sdNoFRdnLksg1YGXrciAUSeabwljZXtwELeaQT/Zgfddc2BF6ZiFTMeDZQnLXs+mGII3NcUsqSI9iY8RWkZGxxlprSi4Qf8O9FlnEeXkzyaAtV9j8WTDCrayaS4FC5AWPlIH7TttjLZXccyKEEwTARP5RzCgPbpSRyKewqoVCkpUORzxUbjwZK0r07Db3F2xIi8W6BuUtbfQo53EJ9Q6HrpSfB0RVpyhCHXChCE9I6CjdRBMTv8mirxWJs/9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwYABQcE/8QAJxAAAgEDAwMDBQAAAAAAAAAAAQIDAAQREiFBBSIxBhNhFDJRgaH/xAAYAQACAwAAAAAAAAAAAAAAAAAFBgIDB//EACARAAEEAgIDAQAAAAAAAAAAAAEAAgMRBAUhMRNBUXH/2gAMAwEAAhEDEQA/AM7qbUK8ieSEiKQxyeQRSlFf9Rup5I45SsinRpxz+P5S/ixeQGqW0bHbs17gHtJvqq9d+04lgpHzRKr7KAfTxCQsz8ysMaq7x27VXmRiMgKGuz3Z0bpCKbfCXrq8khuZmZXjVT9xPn9VWJ1SFZpQ+qN3GoPwTQAzS3F20jM3eRpztVXPGoaRcbLkj4orDEGlJOy2Uso46JPf6tItWmaFPfCA4G6nOaNSz6LuZpYriKRyyRntB480zYoVlOd5SCnjQQxSYbDE2geefq//2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAQcC/8QAJhAAAgEDAwQBBQAAAAAAAAAAAQMCAAQRBRIhIjFBYQYyUVJxkf/EABgBAAIDAAAAAAAAAAAAAAAAAAQFAwYH/8QAJBEAAQQBAwMFAAAAAAAAAAAAAQACAxEEBRJBBjFRExQhIoH/2gAMAwEAAhEDEQA/AM7bILAqcVw9UWAGfg0B1YXSrgytGMUojlZH0nxj0ef5SLGiD2WO617O1j2GTslbYIFV+ph4qUvfHbi71CU2OZIKWcEfkftTDQuQzY6k1wM2PMhE1ENPa1dAdevjbNgboiMCs7Yrlkk0ekekn1WYucy8uXNuZFk85yaN06zbeFWerPTi2OA+5ujx8efKYLDUgV7F5Xu6hHOM0e0t7Da5kloO48ZpPsYAAkZEpDuO4/VENI1B6LaUIkEbycyJz491NLC0koLTtRlAaHHhf//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgBBv/EACsQAAEDAwMCBQQDAAAAAAAAAAECAwQFBhEAEiETMQcUIkGBUWFxsQgjwf/EABUBAQEAAAAAAAAAAAAAAAAAAAQC/8QAHBEBAAIDAQEBAAAAAAAAAAAAAQACAwQRMRIh/9oADAMBAAIRAxEAPwB8vCe/TLbnyohAkhIQ0ojIQpZCQT+Cc/GiOMq5bZdFaNenVZCVJclxFNnpONk4X08nuO+eP802VKOxLgSI8vHl3GyhzPsMc6PJlVal0SY7SjHcjtOqbLrhwhTaD6yPgH986BsWtjRPI7VxmQRIlNqS42haDlCxkH6jW6Lrc8Zrbqc6DBeDkN2SsNIJ5bSfYE8Y+nbGlHSoa9Wjxgx/J+tOQbXp1NbeW1559a3dpxvbbAyD9srQfjU/m+qlHtMW6hxpuFuUchP9hBPKM/Tv+u2qV8crRplz0WPIqHmESIq1IbcZcxwUFRBBynuke2pDteY5BuKnSmQguNyGwN4yCD6Tn41C1v8AieS8RZ58vBnUwbKuOo0qJU4kELiSzhnLyULPfnBPA41Yfh3MnS7LpTlwJ6dUS10pA379ykEp3Z++M/Oj2m1R1qdBaaZZQ0Gd6UAHan0jgDPbSVbzynYrylAZ6p7fgaLTbbvEjM2nWgJP/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBBAcI/8QAKxAAAQMDAgMHBQAAAAAAAAAAAQIDBAARIQUSBjFxEyIjUYGRoRQyQWHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAEQIS/9oADAMBAAIRAxEAPwDnbS9MQlj6yQdyW1A9kOahm2etqjTdGclutpQy48pxQs20nvHzt09q0KHwU8+4025ZqJh0uK5k5wBTrpumQ9MaKYjQBP3OHK19T/OVWUKIrIuhcAMxtsnWtrz4yGEG6E9T+T8UzFgI7rRCEJwAkYFGlKQpJIWgi9rg1QecYS4R2qPel9WpJfCmvSJbThek7inHiYsNgFgfQ02TJUiHBdkF4ENkIUO4TnN8E251h0B5YLib3FjzorFmSGigIdWEqOwpvgjyp82iqTbJ11RBS34dhfBPzQ9PbTW0SHFP73Bc4/fWh0SS4uUWVKJQU7eZva9WUWCcC3qaFmOb/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYIBP/EAC0QAAIBAgQEBAYDAAAAAAAAAAEDAgQRAAUGIQcTQVESIjGRFSMyY3GBodHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMGBP/EACARAAEEAQQDAAAAAAAAAAAAAAEAAgMEBRESISNBUfD/2gAMAwEAAhEDEQA/AEGzWKADBf1O5wdcTPis6tSaGuZQqiktjMWhzGAnYm4sBb+RthJqGsWufmNj2Jtgi1zqNK9aUVBmsUty2lSaxsXC5YQDMQB2tfwgfvEbj4y+UABUEzw1vKo+G1fXZlpdbs2uahcmQ8QH1CJtckbH0PtivIF/KBb8f5gR4Za9zR2pYZfUFTaerYydgsDlEgytC1tr9MPKnRYsS5fiv1wbsJilIPnlCvKHt1C56lrFwuSCCOmMvcV2yZr3MxORsOXa4+2P7xoxzJSkIk7YItfrp2R1Ox1HTNqEBfLfKHnjdcOoxrxZ2S/ewk227maKc4O0TW6sFUI7UsSwnsTsB7X9saDS+MlgmOA/gftmOZXAPyIy373OGdUiFxFh6dsLy7iZUaI61//Z" width="28" height="28" alt="" />
@@ -370,7 +370,7 @@ my computers fan keeps running while I'm running it，I will download it again a
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="116.87 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="117.18 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -392,7 +392,7 @@ my computers fan keeps running while I'm running it，I will download it again a
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 877 times</div>
+                                <div class="text">Repositories have been deployed 878 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -462,7 +462,7 @@ my computers fan keeps running while I'm running it，I will download it again a
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.47m out of 150m users</span>
+                                    <span class="gh">ranked 5.47m out of 151m users</span>
                                 </div>
                                 <div class="text">Published 13 public repositories</div>
                             </div>
@@ -591,7 +591,7 @@ my computers fan keeps running while I'm running it，I will download it again a
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 906k out of 150m users</span>
+                                    <span class="gh">ranked 906k out of 151m users</span>
                                 </div>
                                 <div class="text">Followed by 18 users</div>
                             </div>
@@ -692,7 +692,7 @@ my computers fan keeps running while I'm running it，I will download it again a
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.41m out of 216m repositories</span>
+                                    <span class="gh">ranked 3.41m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -744,7 +744,7 @@ my computers fan keeps running while I'm running it，I will download it again a
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Dec 2024, 23:18:39 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Dec 2024, 00:22:39 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
