@@ -74,12 +74,20 @@
 - 📚 目前正在学习线性代数和机器学习的基础知识，以及应用常见的机器学习模型解决问题。
 
 - 🛠️ 热爱计算机科学和IT互联网🖥️事业，平时自己也做一些**全栈开发**,希望能成为一名优秀的开发者。
+  
+- 💩 我的作品⏬⏬
 
-- ✨ 我在我的语雀文档上分享我的学习和爱好 🔜<a href="https://www.yuque.com/u39067637" target="_blank">语雀·史迪仔</a>
+  - <a href="http://games.sparkflare.cn" target="_blank">>>网页小游戏</a>
+  
+  - <a href="http://sue.sparkflare.cn" target="_blank">>>个人博客</a>
 
-- 🤔 我是一个终身学习者，对编程、人工智能、数据科学和历史、经济学充满热情。
+  - <a href="http://test.sparkflare.cn" target="_blank">>>数据标注平台（已停止维护）</a>
 
-- 👥 2024年初和朋友创业，是关于数据方向的，现在还在做，有兴趣的朋友可以来看看 <a href="http://www.sparkflare.cn" target="_blank">▶️Sparkflare</a>
+- ✨ 我在语雀文档平台上记录我的学习和爱好 🔜<a href="https://www.yuque.com/u39067637" target="_blank">语雀·史迪仔</a>
+
+- 🤔 我是一个终身学习者，对编程、人工智能、数据科学和历史充满热情。
+
+- 👥 2024年初和朋友创业，是关于数据方向的，有兴趣的朋友可以来看看 <a href="http://www.sparkflare.cn" target="_blank">▶️Sparkflare</a>
 
 <p>&emsp;&emsp;Go be a great engineer. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p
 
@@ -117,6 +125,7 @@
 - [中国电信人工智能研究院](http://www.chinatelecom.com.cn/) &emsp; 📌 2024-11-25 —— 至今
 
   - 工作岗位：智能感知与识别实习生
+  - 工作内容：建立机器学习模型，进行不平衡多维度数据的分类
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -135,7 +144,7 @@
 - [Sparkflare](http://www.sparkflare.cn/) &emsp; 📌 2024-01-10 —— 至今
 
   - 工作岗位：前端负责人，后端开发工程师
-  - 工作内容：参与软件平台开发，感受创业
+  - 工作内容：数据标注软件平台开发，感受创业
 
 <div>&nbsp;</div>
 
