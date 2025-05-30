@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="983" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="950" class="">
     <defs>
         <style/>
     </defs>
@@ -270,6 +270,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">cointalklucky/CoinTalk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#30eba6c</div>
+                                        <div class="message">fix：修改历史占卜记录的显示顺序为最新的在上面</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">buptsdz/CoinTalk</span>
                                     </div>
                                 </div>
@@ -342,36 +362,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">buptsdz/CoinTalk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1d7cf6b</div>
-                                        <div class="message">Merge pull request #1 from buptsdz/fixed
-
-Fixed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#baf0487</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main' into fixed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d7f42d</div>
-                                        <div class="message">添加今日运势、今日适宜和今日金句模块，并实现描述展开功能</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -395,7 +385,7 @@ Fixed</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 May 2025, 11:14:00 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 May 2025, 12:29:36 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
