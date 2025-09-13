@@ -65,20 +65,20 @@
 <tr><td>
 
 ### 🤺 About Me
+
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png" />
 
-就读于**北京邮电大学**通信工程英才班，目前大四，已保研至**复旦大学**直博，人工智能方向
+就读于**复旦大学**智能复杂体系实验室，目前博一，人工智能方向，本科北邮通信
 
-- 🌱 以后的研究方向是大模型的**多模态**学习，目前正在学习大模型的基础知识。
+- 🌱 目前的研究方向是多智能体的策略模拟。
 
-- 🛠️ 热爱计算机科学和IT互联网🖥️事业，平时自己也做一些**全栈开发**，希望能成为一名优秀的开发者。
+- 🛠️ 热爱计算机科学和 IT 互联网 🖥️ 事业，平时自己也做一些**全栈开发**，希望能成为一名优秀的开发者。
 
-- 💰 同时自己也组织团队，接一些**软件开发**的单子，已高质量服务**30余**大小客户。
-  
-- 💩 我的作品⏬⏬
+- 💰 同时自己也组织团队，接一些**软件开发**的单子，已高质量服务**30 余**大小客户。
+- 💩 我的作品 ⏬⏬
 
-  - <a href="https://games.sparkflare.cn" target="_blank">>>网页小游戏</a>
-  
+  - <a href="http://games.sparkflare.cn" target="_blank">>>网页小游戏</a>
+
   - <a href="http://sue.sparkflare.cn" target="_blank">>>个人博客</a>
 
   - <a href="http://www.sparkflare.cn" target="_blank">>>数据标注平台（项目重启中...）</a>
@@ -87,7 +87,7 @@
 
 - 🤔 我是一个终身学习者，对编程、人工智能、数据科学和历史充满热情。
 
-- 👥 2024年初和朋友创业，是关于数据方向的，有兴趣的朋友可以来看看 <a href="http://www.sparkflare.cn" target="_blank">▶️Sparkflare</a>
+- 👥 2024 年初和朋友创业，是关于数据方向的，有兴趣的朋友可以来看看 <a href="http://www.sparkflare.cn" target="_blank">▶️Sparkflare</a>
 
 <p>&emsp;&emsp;Go be a great engineer. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p
 
@@ -97,21 +97,22 @@
 <tr><td>
 
 ### 🏢 Study Experience
+
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/bupt.png"/>
 
-  - [北京邮电大学](https://www.bupt.edu.cn/) &emsp; 📌 2021-09-01 —— Now
+- [北京邮电大学](https://www.bupt.edu.cn/) &emsp; 📌 2021-09-01 —— Now
 
-    - 学院：信息与通信工程学院
-    - 专业：通信工程
-  
+  - 学院：信息与通信工程学院
+  - 专业：通信工程
+
 <div>&nbsp;</div>
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/fdu.png" />
 
-  - [复旦大学](https://www.fdu.edu.cn/) &emsp; 📌 2025-09-01 —— 
+- [复旦大学](https://www.fdu.edu.cn/) &emsp; 📌 2025-09-01 —— 至今
 
-    - 学院：智能复杂体系基础理论与关键技术实验室
-    - 研究方向：多模态大模型
+  - 学院：智能复杂体系基础理论与关键技术实验室
+  - 研究方向：多模态大模型 and 多智能体模拟
 
 <div>&nbsp;</div>
 </td></tr>
@@ -120,9 +121,19 @@
 <tr><td>
 
 ### 🏭 Work Experience
+
 <img align="right" width="75" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/dianxin.png" />
 
-- [中国电信人工智能研究院](http://www.chinatelecom.com.cn/) &emsp; 📌 2024-11-25 —— 至今
+- [中国电信人工智能研究院](http://www.chinatelecom.com.cn/) &emsp; 📌 2025-3 —— 2025-8
+
+  - 工作岗位：多模态大模型视觉理解
+  - 工作内容：视觉大模型的训练（微调），推理，测评，数据构造以及实际应用
+
+<div>&nbsp;</div>
+
+<img align="right" width="75" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/dianxin.png" />
+
+- [中国电信人工智能研究院](http://www.chinatelecom.com.cn/) &emsp; 📌 2024-11 —— 2025-3
 
   - 工作岗位：智能感知与识别实习生
   - 工作内容：使用机器学习进行不平衡多维度数据的分类
@@ -132,16 +143,16 @@
 
 <img align="right" width="108" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/pjlab.png" />
 
-- [上海人工智能实验室](https://www.shlab.org.cn/) &emsp; 📌 2024-06-07 —— 2024-11-05
+- [上海人工智能实验室](https://www.shlab.org.cn/) &emsp; 📌 2024-06 —— 2024-11
 
-  - 工作岗位：AI4Science研究以及大模型实习生
-  - 工作内容：编写数据处理的pipeline，大模型微调，推理，测评
+  - 工作岗位：AI4Science 研究以及大模型实习生
+  - 工作内容：编写数据处理的 pipeline，大模型微调，推理，测评
 
 <div>&nbsp;</div>
 
 <img align="right" height="40" width="125" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/sparkflare.png" />
 
-- [Sparkflare](http://www.sparkflare.cn/) &emsp; 📌 2024-01-10 —— 至今
+- [Sparkflare](http://www.sparkflare.cn/) &emsp; 📌 2024-01 —— 至今
 
   - 工作岗位：前端负责人，后端开发工程师
   - 工作内容：数据标注软件平台开发，感受创业
@@ -150,7 +161,7 @@
 
 <img align="right" width="75" src="/assets/images/rusheng.png"/>
 
-- [众艺鑫团队](https://mp.weixin.qq.com/s/isj3AT4irFgKDtVh550P4Q) &emsp; 📌 2024-01-16 —— 2024.03.15
+- [众艺鑫团队](https://mp.weixin.qq.com/s/isj3AT4irFgKDtVh550P4Q) &emsp; 📌 2024-01 —— 2024.03
 
   - 工作岗位：前端开发工程师
   - 工作内容：数字化知识交互学习软件开发，uniapp+vue
@@ -159,7 +170,7 @@
 
 <img align="right" width="75" src="/assets/images/unionswap.png"/>
 
-- [Unionswap](http://www.unionswap.cn/) &emsp; 📌 2023-10-15 —— 2024.4.18
+- [Unionswap](http://www.unionswap.cn/) &emsp; 📌 2023-10 —— 2024.4
 
   - 工作岗位：前端开发实习生
   - 工作内容：海外二手交易平台开发，uniapp+vue
@@ -167,8 +178,6 @@
 <div>&nbsp;</div>
 </td></tr>
 </table>
-
-
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
@@ -187,10 +196,11 @@
 </div>
 
 ### 🧰 Tools:
+
 <!--  skill badge 技能徽章 -->
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-6DB33F?logo=python&logoColor=fff&style=flat) ![Mysql](https://img.shields.io/badge/Mysql-47A248?logo=mysql&logoColor=fff&style=flat) ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat) ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![Python](https://img.shields.io/badge/Python-6DB33F?logo=python&logoColor=fff&style=flat) ![Mysql](https://img.shields.io/badge/Mysql-47A248?logo=mysql&logoColor=fff&style=flat) ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat) ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black) ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white) ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
 
@@ -229,7 +239,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-gitblock.svg" />
   <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/icon.png" />
