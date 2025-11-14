@@ -70,11 +70,11 @@
 
 就读于**复旦大学**智能复杂体系实验室，目前博一，人工智能方向，本科北邮通信
 
-- 🌱 目前的研究方向是多智能体的策略模拟。
+- 🌱 目前的研究方向是多模态大模型研究，以及多智能体的策略模拟。
 
-- 🛠️ 热爱计算机科学和 IT 互联网 🖥️ 事业，平时自己也做一些**全栈开发**，希望能成为一名优秀的开发者。
+- 🛠️ 热爱计算机科学和 IT 互联网 🖥️，平时自己也做一些**全栈开发**，希望能成为一名优秀的开发者。
 
-- 💰 同时自己也组织团队，接一些**软件开发**的单子，已高质量服务**30 余**大小客户。
+- 💰 同时自己也接一些**软件开发**的单子，已高质量服务**30 余**大小客户。
 - 💩 我的作品 ⏬⏬
 
   - <a href="http://games.sparkflare.cn" target="_blank">>>网页小游戏</a>
@@ -89,6 +89,7 @@
 
 - 👥 2024 年初和朋友创业，是关于数据方向的，有兴趣的朋友可以来看看 <a href="http://www.sparkflare.cn" target="_blank">▶️Sparkflare</a>
 
+- 🔎 爱好古玩收藏和历史，我的一些藏品：http://sue.sparkflare.cn/views/antique-collection.html
 <p>&emsp;&emsp;Go be a great engineer. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p
 
 </td></tr>
@@ -98,21 +99,20 @@
 
 ### 🏢 Study Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/bupt.png"/>
-
-- [北京邮电大学](https://www.bupt.edu.cn/) &emsp; 📌 2021-09-01 —— Now
-
-  - 学院：信息与通信工程学院
-  - 专业：通信工程
-
-<div>&nbsp;</div>
-
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/fdu.png" />
 
-- [复旦大学](https://www.fdu.edu.cn/) &emsp; 📌 2025-09-01 —— 至今
+- [复旦大学](https://www.fdu.edu.cn/) &emsp; 📌 2025-09 —— 至今
 
   - 学院：智能复杂体系基础理论与关键技术实验室
   - 研究方向：多模态大模型 and 多智能体模拟
+  <div>&nbsp;</div>
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/bupt.png"/>
+
+- [北京邮电大学](https://www.bupt.edu.cn/) &emsp; 📌 2021-09 —— 2025.7
+
+  - 学院：信息与通信工程学院
+  - 专业：通信工程（英才班）
 
 <div>&nbsp;</div>
 </td></tr>
@@ -124,10 +124,10 @@
 
 <img align="right" width="75" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/dianxin.png" />
 
-- [中国电信人工智能研究院](http://www.chinatelecom.com.cn/) &emsp; 📌 2025-3 —— 2025-8
+- [中国电信人工智能研究院](http://www.chinatelecom.com.cn/) &emsp; 📌 2025-3 —— 至今
 
-  - 工作岗位：多模态大模型视觉理解
-  - 工作内容：视觉大模型的训练（微调），推理，测评，数据构造以及实际应用
+  - 工作岗位：多模态大模型实习生
+  - 工作内容：视觉大模型的训练（微调），推理，测评，数据构造，打榜以及实际应用
 
 <div>&nbsp;</div>
 
@@ -136,7 +136,7 @@
 - [中国电信人工智能研究院](http://www.chinatelecom.com.cn/) &emsp; 📌 2024-11 —— 2025-3
 
   - 工作岗位：智能感知与识别实习生
-  - 工作内容：使用机器学习进行不平衡多维度数据的分类
+  - 工作内容：使用机器学习进行不平衡多维度数据的分类，应用在电诈识别领域
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -146,20 +146,20 @@
 - [上海人工智能实验室](https://www.shlab.org.cn/) &emsp; 📌 2024-06 —— 2024-11
 
   - 工作岗位：AI4Science 研究以及大模型实习生
-  - 工作内容：编写数据处理的 pipeline，大模型微调，推理，测评
+  - 工作内容：数据清洗和处理，大模型推理，测评，RAG 的研究和应用
 
 <div>&nbsp;</div>
 
 <img align="right" height="40" width="125" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/sparkflare.png" />
 
-- [Sparkflare](http://www.sparkflare.cn/) &emsp; 📌 2024-01 —— 至今
+- [Sparkflare](http://www.sparkflare.cn/) &emsp; 📌 2024-01 —— 2025.7
 
   - 工作岗位：前端负责人，后端开发工程师
-  - 工作内容：数据标注软件平台开发，感受创业
+  - 工作内容：数据标注软件平台开发，商业策划，感受创业；获得 24 年互联网+国家银奖
 
 <div>&nbsp;</div>
 
-<img align="right" width="75" src="/assets/images/rusheng.png"/>
+<img align="right" width="75" src="assets/images/rusheng.png"/>
 
 - [众艺鑫团队](https://mp.weixin.qq.com/s/isj3AT4irFgKDtVh550P4Q) &emsp; 📌 2024-01 —— 2024.03
 
@@ -168,7 +168,7 @@
 
 <div>&nbsp;</div>
 
-<img align="right" width="75" src="/assets/images/unionswap.png"/>
+<img align="right" width="75" src="assets/images/unionswap.png"/>
 
 - [Unionswap](http://www.unionswap.cn/) &emsp; 📌 2023-10 —— 2024.4
 
@@ -178,6 +178,62 @@
 <div>&nbsp;</div>
 </td></tr>
 </table>
+
+## 🧰 Tech Stack:
+
+### most commonly used
+
+<!--  skill badge 技能徽章 -->
+<div align="center">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+</div>
+
+### others
+
+<div align="center">
+
+![Mysql](https://img.shields.io/badge/Mysql-47A248?logo=mysql&logoColor=fff&style=flat) ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat) ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black) ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+
+</div>
+
+<div align="center">
+  <!-- svg动图 -->
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right:35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" /> 
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  
+  <!-- svg静态图 -->
+  <img src="https://skillicons.dev/icons?i=git,postman,anaconda,pycharm,webstorm,linux,ubuntu,unity,mongodb,c,cpp"/>
+</div>
+
+<!-- Gif -->
+<div align="center">
+  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+  <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
+</div>
+
+### most commonly used AI
+
+<div align="center">
+  <!-- png静态图 -->
+  <img src="assets/images/openai.png" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="assets/images/qwen-color.png" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="assets/images/doubao-color.png" alt="icon" width="65" style="width: 65px; height: 65px; margin-right:35px; margin-bottom: 0px;" />
+  <img src="assets/images/grok.png" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" /> 
+</div>
+<div>&nbsp;</div>
+
+## github-readme-streak-stats
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
@@ -193,44 +249,6 @@
     <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif"/>
     <img src="/github-metrics.svg">
     <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif">
-</div>
-
-### 🧰 Tools:
-
-<!--  skill badge 技能徽章 -->
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-6DB33F?logo=python&logoColor=fff&style=flat) ![Mysql](https://img.shields.io/badge/Mysql-47A248?logo=mysql&logoColor=fff&style=flat) ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat) ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black) ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white) ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
-
-</div>
-
-<div align="center">
-  <!-- svg动图 -->
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right:35px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" /> 
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-  
-  <!-- svg静态图 -->
-  <img src="https://skillicons.dev/icons?i=git,postman,anaconda,pycharm,webstorm,linux,ubuntu,gmail,unity,mongodb,c,cpp"/>
-</div>
-
-<!-- Gif -->
-<div align="center">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
-  <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
 </div>
 
 <!-- profile-3d-contrib 3D 贡献图-->
