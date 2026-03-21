@@ -39,20 +39,21 @@
   </picture>
   
   <!-- 个人信息统计 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=buptsdz&show_icons=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buptsdz&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=buptsdz&show_icons=true&hide_border=true" alt="Sue's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buptsdz&layout=compact&theme=buefy&hide_border=true" />
   
   
   <!-- 活跃折线图 -->
-  <picture>
+  <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=xcode&bg_color=FF000000&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=xcode&bg_color=FF000000&hide_border=true" />
-  </picture>
+  </picture> -->
   
-  <div>&nbsp;</div>
+  <!-- <div>&nbsp;</div> -->
   
   <!-- GitHub 奖杯🏆 -->
-  <div><img src="https://github-profile-trophy.vercel.app/?username=buptsdz&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+  <!-- <div><img src="https://github-profile-trophy.vercel.app/?username=buptsdz&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
 
 </div>
 
@@ -68,7 +69,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png" />
 
-就读于**复旦大学**智能复杂体系实验室，目前博一，人工智能方向，本科北邮通信
+就读于**复旦大学**智能复杂体系实验室，目前博一，多模态大模型基座研究方向，本科北邮通信
 
 - 🌱 目前的研究方向是多模态大模型研究，以及多智能体的策略模拟。
 
@@ -76,7 +77,6 @@
 
 - 💰 同时自己也接一些**软件开发**的单子，已高质量服务**30 余**大小客户。
 - 💩 我的作品 ⏬⏬
-
   - <a href="http://games.sparkflare.cn" target="_blank">>>网页小游戏</a>
 
   - <a href="http://sue.sparkflare.cn" target="_blank">>>个人博客</a>
@@ -85,11 +85,11 @@
 
 - ✨ 我在语雀文档平台上记录我的学习和爱好 🔜<a href="https://www.yuque.com/u39067637" target="_blank">语雀·史迪仔</a>
 
-- 🤔 我是一个终身学习者，对编程、人工智能、数据科学和历史充满热情。
+- 🤔 我是一个终身学习者，对编程、人工智能、数据科学充满热情。
 
 - 👥 2024 年初和朋友创业，是关于数据方向的，有兴趣的朋友可以来看看 <a href="http://www.sparkflare.cn" target="_blank">▶️Sparkflare</a>
 
-- 🔎 爱好古玩收藏和历史，我的一些藏品：http://sue.sparkflare.cn/views/antique-collection.html
+- 🔎 爱好古玩收藏，我的一些藏品：http://sue.sparkflare.cn/views/antique-collection.html
 <p>&emsp;&emsp;Go be a great engineer. We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p
 
 </td></tr>
@@ -102,7 +102,6 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/fdu.png" />
 
 - [复旦大学](https://www.fdu.edu.cn/) &emsp; 📌 2025-09 —— 至今
-
   - 学院：智能复杂体系基础理论与关键技术实验室
   - 研究方向：多模态大模型 and 多智能体模拟
   <div>&nbsp;</div>
@@ -110,7 +109,6 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/bupt.png"/>
 
 - [北京邮电大学](https://www.bupt.edu.cn/) &emsp; 📌 2021-09 —— 2025.7
-
   - 学院：信息与通信工程学院
   - 专业：通信工程（英才班）
 
@@ -125,18 +123,16 @@
 <img align="right" width="75" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/dianxin.png" />
 
 - [中国电信人工智能研究院](http://www.chinatelecom.com.cn/) &emsp; 📌 2025-3 —— 至今
-
   - 工作岗位：多模态大模型实习生
-  - 工作内容：视觉大模型的训练（微调），推理，测评，数据构造，打榜以及实际应用
+  - 工作内容：多模态大模型的训练（微调），推理，测评，数据构造，打榜以及实际应用
 
 <div>&nbsp;</div>
 
 <img align="right" width="75" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/dianxin.png" />
 
 - [中国电信人工智能研究院](http://www.chinatelecom.com.cn/) &emsp; 📌 2024-11 —— 2025-3
-
   - 工作岗位：智能感知与识别实习生
-  - 工作内容：使用机器学习进行不平衡多维度数据的分类，应用在电诈识别领域
+  - 工作内容：在电诈识别领域，使用机器学习进行不平衡多维度数据的分类
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
@@ -144,36 +140,29 @@
 <img align="right" width="108" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/pjlab.png" />
 
 - [上海人工智能实验室](https://www.shlab.org.cn/) &emsp; 📌 2024-06 —— 2024-11
-
-  - 工作岗位：AI4Science 研究以及大模型实习生
-  - 工作内容：数据清洗和处理，大模型推理，测评，RAG 的研究和应用
+  - 工作岗位：AI4Science 大模型实习生
+  - 工作内容：数据处理和构造，大模型推理，测评，RAG的研究和应用
 
 <div>&nbsp;</div>
 
 <img align="right" height="40" width="125" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/sparkflare.png" />
 
 - [Sparkflare](http://www.sparkflare.cn/) &emsp; 📌 2024-01 —— 2025.7
-
-  - 工作岗位：前端负责人，后端开发工程师
-  - 工作内容：数据标注软件平台开发，商业策划，感受创业；获得 24 年互联网+国家银奖
+  - 工作岗位：全栈开发，ai系统设计
+  - 工作内容：数据标注软件平台开发，探索基于AI agent范式的知识驱动标注系统；获得 24 年互联网+国家银奖
 
 <div>&nbsp;</div>
-
+<!--
 <img align="right" width="75" src="assets/images/rusheng.png"/>
-
 - [众艺鑫团队](https://mp.weixin.qq.com/s/isj3AT4irFgKDtVh550P4Q) &emsp; 📌 2024-01 —— 2024.03
-
   - 工作岗位：前端开发工程师
   - 工作内容：数字化知识交互学习软件开发，uniapp+vue
-
 <div>&nbsp;</div>
-
 <img align="right" width="75" src="assets/images/unionswap.png"/>
-
 - [Unionswap](http://www.unionswap.cn/) &emsp; 📌 2023-10 —— 2024.4
-
   - 工作岗位：前端开发实习生
   - 工作内容：海外二手交易平台开发，uniapp+vue
+-->
 
 <div>&nbsp;</div>
 </td></tr>
@@ -189,6 +178,17 @@
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
 </div>
+
+### most commonly used AI
+
+<div align="center">
+  <!-- png静态图 -->
+  <img src="assets/images/openai.png" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="assets/images/qwen-color.png" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
+  <img src="assets/images/doubao-color.png" alt="icon" width="65" style="width: 65px; height: 65px; margin-right:35px; margin-bottom: 0px;" />
+  <img src="assets/images/grok.png" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" /> 
+</div>
+<div>&nbsp;</div>
 
 ### others
 
@@ -222,33 +222,22 @@
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
 </div>
 
-### most commonly used AI
-
-<div align="center">
-  <!-- png静态图 -->
-  <img src="assets/images/openai.png" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
-  <img src="assets/images/qwen-color.png" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" />
-  <img src="assets/images/doubao-color.png" alt="icon" width="65" style="width: 65px; height: 65px; margin-right:35px; margin-bottom: 0px;" />
-  <img src="assets/images/grok.png" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 35px; margin-bottom: 0px;" /> 
-</div>
-<div>&nbsp;</div>
-
 ## github-readme-streak-stats
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
-    <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/left.png" />
+    <!-- <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/left.png" /> -->
     <picture>
       <source aligh="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=dark&hide_border=true" />
       <source aligh="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=light&hide_border=true" />
       <img aligh="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=dark&hide_border=true" />
     </picture>
-    <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/right.png" />
+    <!-- <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/right.png" /> -->
     <div>&nbsp;</div>
     <!-- metrics -->
-    <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif"/>
+    <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif"/> -->
     <img src="/github-metrics.svg">
-    <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif">
+    <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif"> -->
 </div>
 
 <!-- profile-3d-contrib 3D 贡献图-->
