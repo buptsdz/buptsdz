@@ -9,9 +9,9 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/main/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/main/assets/images/developer.svg" />
+    <img src="https://raw.githubusercontent.com/buptsdz/buptsdz/main/assets/images/coding.gif" height="225px" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -39,8 +39,8 @@
   </picture>
   
   <!-- 个人信息统计 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=buptsdz&show_icons=true&hide_border=true" alt="Sue's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buptsdz&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=buptsdz&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Sue's github stats" />
+  <img align="center" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=buptsdz&layout=compact&hide_border=true&langs_count=8" />
   
   
   <!-- 活跃折线图 -->
