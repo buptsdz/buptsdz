@@ -39,8 +39,8 @@
   </picture>
   
   <!-- 个人信息统计 -->
-  <img align="center" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=buptsdz&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Sue's github stats" />
-  <img align="center" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=buptsdz&layout=compact&hide_border=true&langs_count=8" />
+  <img align="center" width="50%" src="./profile/stats.svg" alt="Sue's github stats" />
+  <img align="center" width="40%" src="./profile/top-langs.svg" alt="Sue's top languages" />
   
   
   <!-- 活跃折线图 -->

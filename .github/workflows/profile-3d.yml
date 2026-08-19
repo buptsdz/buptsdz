@@ -9,16 +9,38 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v6
+
+      - name: Generate GitHub profile 3D contribution graph
+        id: generate
+        continue-on-error: true
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      - name: Wait before retry
+        if: steps.generate.outcome == 'failure'
+        run: sleep 60
+
+      - name: Retry GitHub profile 3D contribution graph
+        if: steps.generate.outcome == 'failure'
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A .
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit"
+            exit 0
+          fi
           git commit -m "generated"
           git push
