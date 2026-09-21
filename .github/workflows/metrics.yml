@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: buptsdz
+          user: ${{ github.repository_owner }}
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Taipei

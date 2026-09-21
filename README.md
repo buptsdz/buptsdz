@@ -3,15 +3,15 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="http://sue.sparkflare.cn/views/personal-introduction.html" target="_blank">
-      <img src="https://raw.githubusercontent.com/buptsdz/buptsdz/main/assets/images/typing.svg" alt="Typing intro" />
+      <img src="./assets/images/typing.svg" alt="Typing intro" />
     </a>
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/main/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/main/assets/images/developer.svg" />
-    <img src="https://raw.githubusercontent.com/buptsdz/buptsdz/main/assets/images/coding.gif" height="225px" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/images/developer.svg" />
+    <img src="./assets/images/coding.gif" height="225px" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -25,16 +25,16 @@
     <!-- <a href="https://space.bilibili.com/512181208?spm_id_from=333.1007.0.0" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp; -->
     <!-- <a href="http://sue.sparkflare.cn/mulu/mulu1.html" target="_blank"><img src="https://img.shields.io/badge/Poems-我写的诗-rgb(225, 224, 199)" /></a>&emsp; -->
     <a href="http://www.sparkflare.cn" target="_blank"><img src="https://img.shields.io/badge/Sparkflare-星火-rgb(227, 52, 43)" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=buptsdz&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=sudezhao2002&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->
     <!-- <a href="https://wakatime.com/@buptsdz"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg"/></a> -->
   </div>
   
   <!-- 活跃贪吃蛇 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/buptsdz/buptsdz/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudezhao2002/sudezhao2002/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudezhao2002/sudezhao2002/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sudezhao2002/sudezhao2002/output/github-contribution-grid-snake.svg">
   </picture>
   
   <!-- 个人信息统计 -->
@@ -44,15 +44,15 @@
   
   <!-- 活跃折线图 -->
   <!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=xcode&bg_color=FF000000&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buptsdz&theme=xcode&bg_color=FF000000&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sudezhao2002&theme=xcode&bg_color=FF000000&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sudezhao2002&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudezhao2002&theme=xcode&bg_color=FF000000&hide_border=true" />
   </picture> -->
   
   <!-- <div>&nbsp;</div> -->
   
   <!-- GitHub 奖杯🏆 -->
-  <!-- <div><img src="https://github-profile-trophy.vercel.app/?username=buptsdz&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
+  <!-- <div><img src="https://github-profile-trophy.vercel.app/?username=sudezhao2002&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
 
 </div>
 
@@ -66,7 +66,7 @@
 
 ### 🤺 About Me
 
-<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/computer.png" /> -->
+<!-- <img align="right" width="88" src="./assets/images/computer.png" /> -->
 
 就读于**复旦大学**智能复杂体系实验室，目前博二，研究具身智能agent及自进化，本科北邮通信
 
@@ -97,14 +97,14 @@
 
 ### 🏢 Study Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/fdu.png" />
+<img align="right" width="88" src="./assets/images/fdu.png" />
 
 - [复旦大学](https://www.fdu.edu.cn/) &emsp; 📌 2025-09 —— 至今
   - 学院：智能复杂体系基础理论与关键技术实验室
   - 研究方向：复杂系统角度下的具身智能研究
   <div>&nbsp;</div>
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/bupt.png"/>
+<img align="right" width="88" src="./assets/images/bupt.png"/>
 
 - [北京邮电大学](https://www.bupt.edu.cn/) &emsp; 📌 2021-09 —— 2025.7
   - 学院：信息与通信工程学院
@@ -118,7 +118,7 @@
 
 ### 🏭 Work Experience
 
-<img align="right" width="75" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/teleai.png" />
+<img align="right" width="75" src="./assets/images/teleai.png" />
 
 - [中国电信人工智能研究院](https://www.teleai.com.cn/product/AboutTeleAI) &emsp; 📌 2026-8 —— 至今
   - 工作岗位：具身智能实习生
@@ -126,7 +126,7 @@
 
 <div>&nbsp;</div>
 
-<img align="right" width="75" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/teleai.png" />
+<img align="right" width="75" src="./assets/images/teleai.png" />
 
 - [中国电信人工智能研究院](https://www.teleai.com.cn/product/AboutTeleAI) &emsp; 📌 2025-3 —— 2026-7
   - 工作岗位：多模态大模型实习生
@@ -134,7 +134,7 @@
 
 <div>&nbsp;</div>
 
-<img align="right" width="75" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/teleai.png" />
+<img align="right" width="75" src="./assets/images/teleai.png" />
 
 - [中国电信人工智能研究院](https://www.teleai.com.cn/product/AboutTeleAI) &emsp; 📌 2024-11 —— 2025-3
   - 工作岗位：智能感知与识别实习生
@@ -143,7 +143,7 @@
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 
-<img align="right" width="108" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/pjlab.png" />
+<img align="right" width="108" src="./assets/images/pjlab.png" />
 
 - [上海人工智能实验室](https://www.shlab.org.cn/) &emsp; 📌 2024-06 —— 2024-11
   - 工作岗位：AI4Science 大模型实习生
@@ -151,7 +151,7 @@
 
 <div>&nbsp;</div>
 
-<img align="right" height="40" width="125" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/sparkflare.png" />
+<img align="right" height="40" width="125" src="./assets/images/sparkflare.png" />
 
 - [Sparkflare](http://www.sparkflare.cn/) &emsp; 📌 2024-01 —— 2025.7
   - 工作岗位：全栈开发，ai系统设计
@@ -233,34 +233,34 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
-    <!-- <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/left.png" /> -->
+    <!-- <img align="left" width="150" src="./assets/images/left.png" /> -->
     <picture>
-      <source aligh="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=dark&hide_border=true" />
-      <source aligh="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=light&hide_border=true" />
-      <img aligh="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buptsdz&theme=dark&hide_border=true" />
+      <source aligh="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sudezhao2002&theme=dark&hide_border=true" />
+      <source aligh="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sudezhao2002&theme=light&hide_border=true" />
+      <img aligh="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudezhao2002&theme=dark&hide_border=true" />
     </picture>
-    <!-- <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/right.png" /> -->
+    <!-- <img align="right" width="150"  src="./assets/images/right.png" /> -->
     <div>&nbsp;</div>
     <!-- metrics -->
-    <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif"/> -->
+    <!-- <img width="150" src="./assets/images/cxyduck.gif"/> -->
     <img src="/github-metrics.svg">
-    <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/cxyduck.gif"> -->
+    <!-- <img width="150" src="./assets/images/cxyduck.gif"> -->
 </div>
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 <!-- 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/icon.png" />
+  <img src="./assets/images/icon.png" />
 </div> -->
 
 <!--
-**buptsdz/buptsdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sudezhao2002/sudezhao2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
